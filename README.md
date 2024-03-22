@@ -1,12 +1,12 @@
 # SKKU.THON Team3
-### 황근이와 아이들
+### 학교 단과대학 Hackathon에 참가하여 진행했던 프로젝트입니다.
 |  Name  |                     GitHub ID                     |          소속           |         역할           |
 | :----: | :-----------------------------------------------: | :---------------------: |:---------------------: |
-| 이황근 |  [yihwanggeun](https://github.com/yihwanggeun)  |    성균관대 소프트웨어학과 19학번   | 팀장 및 Frontend|
 | 강동연 | [rkdehddus03](https://github.com/rkdehddus03) | 성균관대 소프트웨어학과 22학번 |Frontend|
-| 이수안 | [sooahn330](https://github.com/sooahn330) | 성균관대 소프트웨어학과 22학번 |Frontend|
 | 김태훈 | [mistercoin818](https://github.com/mistercoin818) | 성균관대 소프트웨어학과 18학번 |Backend|
 | 박동민 | [Ddong-Min](https://github.com/Ddong-Min) | 성균관대 소프트웨어학과 22학번|Backend|
+| 이수안 | [sooahn330](https://github.com/sooahn330) | 성균관대 소프트웨어학과 22학번 |Frontend|
+| 이황근 |  [yihwanggeun](https://github.com/yihwanggeun)  |    성균관대 소프트웨어학과 19학번   |Frontend|
 
 ### 앱 이름: 모서리
 > 모 두 함께
@@ -15,7 +15,7 @@
 > 
 > 리 롭게
 
-+ *황근이와 아이들* 팀은 **사회적 소외계층을 위한 일자리 추천 서비스**라는 주제를 통해 *공공의 이익* 을 실현하는 어플리케이션을 만들었습니다.
++ **사회적 소외계층을 위한 일자리 추천 서비스**라는 주제를 통해 *공공의 이익* 을 실현하는 어플리케이션을 만들었습니다.
 + 다음과 같은 기능이 포함되어 있습니다.
 #### 0. 첫 화면
   <img width='250' alt = '' src="https://github.com/skku-sw/SKKU.THON-Team3/assets/63841863/cee94196-9ed3-4d8f-a495-b8caf125a854"><hr>
@@ -63,11 +63,7 @@
   + <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 #### Version Control
   + <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  + <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-#### Design Tool
-  + <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 #### Collaboration Tool
-  + <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   + <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   + <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=black">
 
